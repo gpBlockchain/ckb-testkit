@@ -10,13 +10,13 @@ description = "ckb testkit"
 
 [dependencies]
 #ckb2019-jsonrpc-types = { package = "ckb-jsonrpc-types", version = "0.43.2" }
-ckb-jsonrpc-types = "0.109.0"
-ckb-types = "0.109.0"
-ckb-error = "0.109.0"
-ckb-crypto = "0.109.0"
-ckb-hash = "0.109.0"
-ckb-stop-handler = "0.109.0"
-ckb-indexer = "0.109.0"
+ckb-jsonrpc-types = "0.110.0"
+ckb-types = "0.110.0"
+ckb-error = "0.110.0"
+ckb-crypto = "0.110.0"
+ckb-hash = "0.110.0"
+ckb-stop-handler = "0.110.0"
+ckb-indexer = "0.110.0"
 reqwest = { version = "0.10.9", features = ["blocking", "json"] }
 serde_json = "1.0"
 lazy_static = "1.4.0"
